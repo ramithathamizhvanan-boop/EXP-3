@@ -27,6 +27,8 @@ APPARATUS REQUIRED:
 
 THEORY:
 
+
+
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
@@ -35,6 +37,7 @@ THEORY:
 
 
 PROCEDURE:
+
 
 
 •  Place the accessories on the wiring board as per the circuit diagram.
@@ -51,7 +54,9 @@ switch2.
 
 
 
+
 CIRCUIT DIAGRAM: 
+
 
 Direct connection:
 
@@ -63,6 +68,7 @@ Direct connection:
  cross connections:
 
  <img width="1353" height="606" alt="image" src="https://github.com/user-attachments/assets/fc8c77b6-7d9f-412b-a1ec-abd01efada65" />
+
 
 
 STIMULATION RESULT:
